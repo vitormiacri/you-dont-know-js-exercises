@@ -1,4 +1,4 @@
-# You dont know js exercises
+# You dont know JS exercises
 
 Exemplos de código e resolução dos exercícios e desafios propostos no livro.
 
